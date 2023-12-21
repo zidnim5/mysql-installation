@@ -57,8 +57,18 @@ log-error=/var/lib/mysql/database_dua/database_dua.log
 
 Systemd provides automatic MySQL server startup and shutdown. It also enables manual server management using the systemctl command.
 
+
 ```
 systemctl {start|stop|restart|status} mysqld@database_satu
 ```
+
+<br/>
+
+## References
+
+https://dev.mysql.com/doc/refman/8.0/en/installing.html
+
+http://www.pervasivecode.com/blog/2008/03/29/making-selinux-allow-a-nonstandard-mysql-port-number-on-centos-51
+
 
 
