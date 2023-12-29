@@ -33,6 +33,12 @@ To install using this command :
 rpm -ivh name_file.rpm
 ```
 
+</br>
+Makesure MySQL installation using this command :
+
+```
+mysql -V
+```
 
 ## Example Configuration File
 
