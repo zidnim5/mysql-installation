@@ -7,15 +7,15 @@
 
 <br/>
 
-# MySQL Installation
+# MySQL Installation Using Binaries
 
 
-This repository is published in order to share how to Install MySQL database using Binaries.
+This is published in order to share how to Install MySQL database using Binaries.
 The official documentation can be found at <a href="https://dev.mysql.com/doc/refman/8.0/en/binary-installation.html"> dev.mysql.com </a>
 
 
 
-## Download & Install BInaries Installer
+## Download & Install Binaries Installer
 
 Please download the file from official website https://dev.mysql.com/downloads/mysql/ and choose linux-glibc2.12-x86_64.
 

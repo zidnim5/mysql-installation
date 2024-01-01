@@ -7,10 +7,10 @@
 
 <br/>
 
-# MySQL Installation
+# MySQL Installation Using RPM
 
 
-This repository is published in order to share how to Install MySQL database using RPM.
+This is published in order to share how to Install MySQL database using RPM.
 The official documentation can be found at <a href="https://dev.mysql.com/doc/refman/8.0/en/installing.html"> dev.mysql.com </a>
 
 
