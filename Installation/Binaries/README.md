@@ -70,6 +70,15 @@ Makesure MySQL installation using this command mysql -v :
 
 Put this configuration file on <strong>cnf</strong> directory lets say name file is mysql.cnf
 
+
+```
+cd /apps/mysql/cnf
+
+touch mysql.cnf
+
+vi mysql.cnf
+```
+
 ```
 [mysqld]
 socket=/apps/mysql/logs/mysql.sock
