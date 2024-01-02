@@ -56,7 +56,7 @@ Makesure MySQL installation using this command mysql -v :
 ## Database Folder Structure
 
     .
-    apps
+    your_basedir ( example: /apps )
     ├── ...
     ├── mysql                # mysql directry
     │   ├── cnf              # configuration file directory
