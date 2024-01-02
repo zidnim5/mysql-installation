@@ -68,14 +68,14 @@ Makesure MySQL installation using this command mysql -v :
 
 ## Example Configuration File
 
-Put this configuration file on <strong>cnf</strong> directory
+Put this configuration file on <strong>cnf</strong> directory lets say name file is mysql.cnf
 
 ```
 [mysqld]
 socket=/apps/mysql/logs/mysql.sock
 port=3306
 datadir=/apps/mysql/datadir
-basedir=/your_path_directory_extracted/
+basedir=/your_binaries_path/
 tmpdir=/apps/mysql/tmp
 log-error=/apps/mysql/logs/mysql.log
 ```
